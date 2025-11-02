@@ -4,4 +4,4 @@
 
 ### Email: shimuliakter877@gmail.com
 
-[ Live url](https://foodies877-assignment-2.netlify.app/)
+[ Live url](https://assignment-2-foodies.netlify.app/)
